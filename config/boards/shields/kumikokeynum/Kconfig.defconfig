@@ -1,0 +1,6 @@
+if SHIELD_KUMIKOKEYNUM
+
+config ZMK_KEYBOARD_NAME
+    default "KumikoKey Numpad"
+
+endif
